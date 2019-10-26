@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.Region?>
+<?import javafx.scene.layout.VBox?>
+
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #151515;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <HBox layoutX="5.0" layoutY="5.0" prefHeight="391.0" prefWidth="591.0">
+         <children>
+            <VBox minHeight="61.0" minWidth="61.0" prefHeight="391.0" prefWidth="61.0" style="-fx-background-color: #CFCFCF;" />
+            <Region prefHeight="391.0" prefWidth="66.0" />
+            <VBox layoutX="10.0" layoutY="10.0" prefHeight="391.0" prefWidth="580.0" style="-fx-background-color: #A6A6A6;" />
+         </children>
+      </HBox>
+   </children>
+</Pane>
